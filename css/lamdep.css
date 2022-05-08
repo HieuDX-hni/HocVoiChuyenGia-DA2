@@ -1,0 +1,28 @@
+.lamdep {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 100px 0;
+}
+.lamdep01 {
+    width: 29%;
+    
+}
+.lamdep02 {
+    text-align: center;
+    width: 100%;
+}
+
+.lamdep01 img {
+    height: auto;
+    max-width: 100%;
+    
+}
+.lamdep-add img {
+    height: auto;
+    max-width: 100%;
+}
+.lamdep-add {
+    margin-top: 100px;
+    padding: 0 5%;
+}

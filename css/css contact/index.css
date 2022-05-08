@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+    .tintuc-trongngay {
+        width: 100%;
+    }
+    .aside {
+        width: 100%;
+        margin-left: 0;
+    }
+    .tintuctn {
+        width: 100%;
+    }
+    .tintuc-nav {
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 1068px) and (min-width: 768px){
+    .tintuc-trongngay {
+        width: 100%;
+    }
+    .aside {
+        width: 83%;
+        margin-left: 0;
+    }
+}

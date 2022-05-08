@@ -1,0 +1,114 @@
+.contact-hero {
+    background-image: url(/img/img-content/34.jpg);
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    height: 500px;
+    padding: 35px 4%;
+    background-color: #f0f4f8;
+    margin: 0 20px 20px;
+    background-position: center center;
+    color: #ffffff;
+}
+.contact-hero::after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.tag {
+    position: absolute;
+    min-width: 180px;
+    left: 150;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 45px;
+    text-transform: uppercase;
+    background-color: #0b87d6;
+    
+    text-align: center;
+    color: #f0f4f8;
+}
+.post-title {
+    position: absolute;
+    top: 200px;
+    font-size: 48px;
+    font-weight: 700;
+    display: inline-block;
+    width: 50%;
+   
+}
+.chuthich {
+    position: absolute;
+    top: 400px;
+}
+/* dia chi*/
+#contact-logo {
+    width: 150px;
+    margin-bottom: 50px;
+}
+.diachi img {
+    vertical-align: middle;
+    margin-right: 15px;
+}
+.diachi p {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #858585;
+    
+}
+.diachi ul {
+    list-style-type: none;
+    margin-top: 50px;
+}
+.diachi li {
+    float: left;
+    margin-right: 15px;
+}
+/* form */
+.btn-ykien {
+    text-align: center;
+}
+.ykien {
+    margin-top: 135px;
+}
+.ykien-form input {
+    background-color: #f0f4f8;
+    font-size: 12px;
+    height: 54px;
+    border: none;
+    border-radius: 0;
+    padding: 15px 30px;
+    margin-bottom: 15px;
+}
+.ykien-form_01 {
+    width: 48%;
+}
+.ykien-form_02 {
+    width: 48%;
+    float: right;
+}
+.ykien-form_03 {
+    width: 100%;
+}
+.ykien-form_04 {
+    background-color: #f0f4f8;
+    font-size: 12px;
+    height: 54px;
+    border: none;
+    border-radius: 0;
+    padding: 15px 30px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 140px;
+}
+.ykien h2 {
+    margin-bottom: 15px;
+}
+.map {
+    text-align: center;
+}

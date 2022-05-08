@@ -1,0 +1,77 @@
+.contact-hero {
+    height: 500px;
+}
+.elon-musk img {
+    width: 100%;
+}
+.tag {
+    background-color: #31ba7e;
+}
+.post-content01 {
+    margin-top: 277px;
+    
+}
+.elon-musk h2 {
+    margin: 5px 0 5px 0;
+    font-size: 22px;
+    color: #000000;
+}
+.elon-musk p {
+    color: #858585;
+    font-size: 15px;
+    line-height: 2;
+    margin-top: 15px;
+}
+/* catafory chil */
+.catagory-chil {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 100px;
+}
+.tintuclon {
+    width: 50%;
+}
+/* quang cao */
+.quangcao01 {
+    padding: 0 4%;
+    margin-top: 4%;
+}
+.quangcao01 img {
+    width: 100%;
+}
+@media only screen and (max-width: 768px) {
+    .tintuc-trongngay {
+        width: 100%;
+    }
+    .aside {
+        width: 100%;
+        margin-left: 0;
+    }
+    .tintuctn {
+        width: 100%;
+    }
+    .tintuc-nav {
+        font-size: 10px;
+    }
+    .elon-musk {
+        padding: 2%;
+    }
+    .post-content01 {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1140px) and (min-width: 768px){
+    .tintuc-trongngay {
+        width: 100%;
+    }
+    .aside {
+        width: 83%;
+        margin-left: 0;
+    }
+    .post-content01 {
+        display: none;
+    }
+    .elon-musk {
+        padding: 2%;
+    }
+}

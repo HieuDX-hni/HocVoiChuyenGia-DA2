@@ -1,0 +1,42 @@
+.aside {
+    text-align: center;
+    margin-top: 100px;
+    height: auto;
+
+}
+.aside img {
+    width: 100%;
+    height: auto;
+}
+.aside h2 {
+    font-size: 24px;
+    color: #000000;
+    padding: 0px 0px 25px;
+}
+.aside p {
+    font-size: 12px;
+    color: #858585;
+    margin: 30px 0px 16px;
+    font-style: italic;
+    line-height: 2;
+}
+.aside-add {
+    width: 100%;
+}
+.aside-noidung {
+    padding: 100px 20px;
+}
+#nlemail {
+    text-align: center;
+    width: 100%;
+    background-color: #d4dfe3;
+    height: 54px;
+    font-size: 12px;
+    font-style: italic;
+    color: #4c4c4c;
+    border: none;
+    margin-bottom: 15px;
+}
+.traixinh-btn {
+    width: 100%;
+}
